@@ -17,7 +17,7 @@
 **About Me!**
 
 - 🌱 I’m from VietNam.
-- 👨🏽‍💻 I’m currently learning Informaton Security at University Of Information Technology.
+- 👨🏽‍💻 I’m currently learning Information Security at University Of Information Technology.
 - 📫 **Hobbies :** Traveling & Music :headphones:
 - 💬 Contact me if you need, I'm happy to have more friends and study together!
 
