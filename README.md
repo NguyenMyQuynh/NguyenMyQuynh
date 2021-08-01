@@ -3,7 +3,7 @@
 <a href="https://www.facebook.com/profile.php?id=100027955203571">
   <img align="left" alt="Quynh's Facebook" width="24px" src="https://img.icons8.com/nolan/96/facebook.png" />
 </a>
-<a href="https://www.instagram.com/j.sanskarr/">
+<a href="https://youtube.com/channel/UCDviwqBcCIWOzj2QFKKtUnw">
   <img align="left" alt="Quynh's YouTube" width="24px" src="https://img.icons8.com/nolan/96/youtube-play.png" />
 </a>
 <a href="https://github.com/NguyenMyQuynh">
