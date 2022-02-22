@@ -45,5 +45,5 @@
 
 <br/>
 <h2 title="hehehe"></h2>
-<h4 align="center">VISITORS COUNT</h4>
-<p align="center" ><img src="https://profile-counter.glitch.me/{NguyenMyQuynh}/count.svg"/></p>
+<h4 align="center">HAVE A NICE DAY! </h4>
+
